@@ -1,0 +1,49 @@
+#Name{
+    height: 20px;
+    font-size: 6em;
+    text-align: center;
+    padding: 10px;
+}
+#Contact{
+    font-size: 1.5em ;
+    text-align: right;
+    padding-right: 185px;
+}
+#Email{
+    font-size: 1.5em ;
+    text-align: right;
+    padding-right: 30px;
+}
+
+#Area{
+    font-size: 1.5em ;
+    text-align: left;
+    padding-left: 30px;
+}
+.box{
+    top padding: 30px;
+    height: 70px;
+    width : 1400px;
+    font-size: 1.5em;
+
+}
+
+.skills{
+    font-size: 1.5em;
+}
+.Exp{
+    font-size: 2.2em;
+    padding-left: 30px;
+
+}
+.exp1{
+   font-size: 1.8em;
+}
+.CB{
+    height: 160px;
+    width: 850px;
+}
+.small{
+    font-size: 1.8em;
+    padding-left: 100px;
+}
